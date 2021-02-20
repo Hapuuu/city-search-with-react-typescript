@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/city-search-with-react-typescript/static/css/main.d3288b0c.chunk.css",
+    "main.js": "/city-search-with-react-typescript/static/js/main.b694a1f9.chunk.js",
+    "main.js.map": "/city-search-with-react-typescript/static/js/main.b694a1f9.chunk.js.map",
+    "runtime-main.js": "/city-search-with-react-typescript/static/js/runtime-main.00890525.js",
+    "runtime-main.js.map": "/city-search-with-react-typescript/static/js/runtime-main.00890525.js.map",
+    "static/js/2.0283ba06.chunk.js": "/city-search-with-react-typescript/static/js/2.0283ba06.chunk.js",
+    "static/js/2.0283ba06.chunk.js.map": "/city-search-with-react-typescript/static/js/2.0283ba06.chunk.js.map",
+    "index.html": "/city-search-with-react-typescript/index.html",
+    "static/css/main.d3288b0c.chunk.css.map": "/city-search-with-react-typescript/static/css/main.d3288b0c.chunk.css.map",
+    "static/js/2.0283ba06.chunk.js.LICENSE.txt": "/city-search-with-react-typescript/static/js/2.0283ba06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00890525.js",
+    "static/js/2.0283ba06.chunk.js",
+    "static/css/main.d3288b0c.chunk.css",
+    "static/js/main.b694a1f9.chunk.js"
+  ]
+}
